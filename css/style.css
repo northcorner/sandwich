@@ -1,12 +1,12 @@
 html {
-  background: url('sandwich/img/bg-image.jpg') no-repeat center center fixed;
+  background: url('/img/bg-image.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 body {
-  background: url('sandwich/img/top-cover.jpg') no-repeat center center fixed;
+  background: url('/img/top-cover.jpg') no-repeat center center fixed;
   background-position: top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
